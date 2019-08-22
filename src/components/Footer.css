@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  padding: 4rem 2rem;
+  border-top: 3px solid black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.footer_text {
+  display: block;
+  width: 100%;
+  max-width: 40rem;
+  text-align: center;
+  font-style: italic;
+}

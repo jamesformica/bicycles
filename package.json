@@ -1,0 +1,23 @@
+{
+  "name": "bicycles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "build": "parcel build index.html --public-url /bicycles",
+    "predeploy": "yarn build",
+    "deploy": "yarn gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "gh-pages": "2.0.1",
+    "parcel-bundler": "^1.12.3"
+  }
+}

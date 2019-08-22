@@ -1,0 +1,26 @@
+.bikes {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  max-width: 40rem;
+  margin: 5rem auto;
+}
+
+.bike {
+  margin-top: 4rem;
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.tag {
+  display: block;
+  font-size: 0.75rem;
+  text-align: right;
+  margin-top: 1rem;
+}
