@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,6BAAiC,CACjC,oEAA6C,CAC7C,qBACF,CAEA,EACE,qBACF","file":"global.08f3b22f.css","sourceRoot":"..","sourcesContent":["body {\n  margin: 0;\n  font-family: 'Crimson Pro', serif;\n  background-image: url('./src/images/bg2.png');\n  background-size: 200px;\n}\n\n* {\n  box-sizing: border-box;\n}"]}
