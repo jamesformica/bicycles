@@ -1,7 +1,5 @@
-# Wordly
+# Bicycles
 
-Write words. Generate art.
+I asked colleagues to draw a bicycle from memory and this is the result. Enjoy!
 
-The idea with this one was that you would type out a narative (not a super long one) and whilst you type some art is generated. You would then finish editing and print it out to a PDF or paper and have your story accompanied by art.
-
-I think its pretty and simplistic.
+_A note to the artists: I genuinely did not mean a word in the captions I wrote. I had a lot of fun with all of you and thank you greatly for indulging me in this silly experiment. You are all artists in your own special ways!_
